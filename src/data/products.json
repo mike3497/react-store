@@ -1,0 +1,30 @@
+[
+    {
+		"id": "1",
+		"imageUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6450/6450868_sd.jpg;maxHeight=400;maxWidth=600",
+		"name": "MacBook Pro 16\"",
+        "description": "Aliquam lorem est, consectetur a ligula eu, iaculis bibendum lacus.",
+		"price": 2499.99
+	},
+	{
+		"id": "2",
+		"imageUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6428/6428324_sd.jpg;maxHeight=640;maxWidth=550",
+        "name": "Xbox Series X 1TB Console",
+        "description": "Aliquam lorem est, consectetur a ligula eu, iaculis bibendum lacus.",
+        "price": 499.99
+	},
+	{
+		"id": "3",
+		"imageUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6470/6470923_sd.jpg;maxHeight=640;maxWidth=550",
+        "name": "Nintendo Switch OLED Model",
+        "description": "Aliquam lorem est, consectetur a ligula eu, iaculis bibendum lacus.",
+        "price": 349.99
+	},
+    {
+        "id": "4",
+        "imageUrl": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6523/6523225_sd.jpg;maxHeight=640;maxWidth=550",
+        "name": "Playstation - 5 Console – God of War Ragnarök Bundle",
+        "description": "Aliquam lorem est, consectetur a ligula eu, iaculis bibendum lacus.",
+        "price": 559.99
+    }
+]
