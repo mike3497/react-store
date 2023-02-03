@@ -1,11 +1,8 @@
 import React from 'react';
 import products from '../data/products';
 import { ProductCard } from '../components/ProductCard';
-import { useCart } from '../contexts/CartContext';
 
 export const Home = () => {
-	const { cartQuantity } = useCart();
-
 	return (
 		<div className="container mt-2">
 			<div className="row">
